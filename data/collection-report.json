@@ -1,0 +1,12 @@
+{
+  "target_total": 1000,
+  "existing_scripts": 119,
+  "candidate_count": 881,
+  "new_candidates": 836,
+  "total_unique": 1000,
+  "pages_fetched": 44,
+  "errors": [],
+  "images_downloaded": 0,
+  "completed_at": "2026-11-25T08:28:23.464717+00:00",
+  "notes": "Discovery only. No generated scripts or growth claims. Source terms must be checked before expanded collection; blocked sources are not bypassed."
+}
