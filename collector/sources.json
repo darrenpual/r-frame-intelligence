@@ -1,0 +1,145 @@
+{
+  "goal_new_brands": 900,
+  "sources": [
+    {
+      "name": "DTCetc",
+      "url": "https://www.dtcetc.com/brands",
+      "kind": "directory",
+      "adapter": "dtcetc",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "1800DTC",
+      "url": "https://1800dtc.com/brands",
+      "kind": "directory",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Thingtesting",
+      "url": "https://thingtesting.com/",
+      "kind": "directory",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Shopify Founder Stories",
+      "url": "https://www.shopify.com/blog/topics/founder-stories",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Shopify Case Studies",
+      "url": "https://www.shopify.com/case-studies",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Starter Story",
+      "url": "https://www.starterstory.com/",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "OptiMonk",
+      "url": "https://www.optimonk.com/blog/category/breakdowns",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Kickstarter",
+      "url": "https://www.kickstarter.com/",
+      "kind": "campaign",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "DIELINE",
+      "url": "https://thedieline.com/",
+      "kind": "design",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "The Brand Identity",
+      "url": "https://the-brandidentity.com/",
+      "kind": "design",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "BP&O",
+      "url": "https://bpando.org/",
+      "kind": "design",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "World Brand Design Society",
+      "url": "https://worldbranddesign.com/",
+      "kind": "design",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Modern Retail",
+      "url": "https://www.modernretail.co/",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Retail Brew",
+      "url": "https://www.retailbrew.com/",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Nik Sharma",
+      "url": "https://www.nik.co/",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Marketing Examples",
+      "url": "https://marketingexamples.com/",
+      "kind": "article",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Really Good Emails",
+      "url": "https://reallygoodemails.com/",
+      "kind": "creative",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Meta Ad Library",
+      "url": "https://www.facebook.com/ads/library/",
+      "kind": "creative",
+      "adapter": "official_access_only",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "TikTok Creative Center",
+      "url": "https://ads.tiktok.com/business/creativecenter/",
+      "kind": "creative",
+      "adapter": "official_access_only",
+      "terms_review": "required before automated collection"
+    },
+    {
+      "name": "Land-book",
+      "url": "https://land-book.com/",
+      "kind": "design",
+      "adapter": "review_required",
+      "terms_review": "required before automated collection"
+    }
+  ]
+}
