@@ -1,15 +1,35 @@
 {
   "target": 100,
-  "stage": "source_verification_pending",
+  "stage": "partial_source_verification",
   "selection_method": "59 prior script priorities plus 41 discovery priorities; provisional, not final approval",
   "rows": [
     {
       "brand": "FRANKIE4",
       "kind": "script",
       "id": "SHP-001",
-      "script": "족부 전문가 부부가 만든 신발",
-      "source_url": "https://www.shopify.com/case-studies/frankie4",
-      "prior_type": "전문가 개발형"
+      "script": "족부 전문가 부부가 창업한 신발",
+      "source_url": "https://www.shopify.com/uk/case-studies/frankie4",
+      "prior_type": "전문가 개발형",
+      "product": "신발",
+      "subject": "족부 전문가 부부",
+      "relationship": "창업한",
+      "type": "전문가 개발형",
+      "value": "전문성",
+      "persuasion": "전문가 권위",
+      "evidence": "2010년 족부 전문가 부부 창업, 자체 인솔 기술 적용.",
+      "growth_evidence": "Shopify 전환 후 방문 170% 증가; 매출 증가와 동일하지 않음",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 28,
+        "differentiation": 18,
+        "transferability": 19,
+        "evidence": 20,
+        "growth": 7
+      },
+      "score": 92,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[족부 전문가 부부] 창업한 [신발]",
+      "grade": "S"
     },
     {
       "brand": "Orthofeet",
@@ -17,15 +37,38 @@
       "id": "SHP-002",
       "script": "다리를 잃은 생체의공학자가 만든 신발",
       "source_url": "https://www.shopify.com/ph/case-studies/orthofeet",
-      "prior_type": "당사자 개발형"
+      "prior_type": "당사자 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Satya",
       "kind": "script",
       "id": "SHP-003",
-      "script": "습진을 겪는 딸을 위해 엄마가 만든 피부 보습 밤",
-      "source_url": "https://www.shopify.com/blog/satya-product-packaging-tips",
-      "prior_type": "가족 개발형"
+      "script": "습진을 겪는 딸을 위해 엄마가 만든 보습 밤",
+      "source_url": "https://www.bdc.ca/en/articles-tools/start-buy-business/start-business/from-solopreneur-to-national-brand",
+      "prior_type": "가족 개발형",
+      "product": "보습 밤",
+      "subject": "엄마",
+      "relationship": "개발한",
+      "type": "가족 개발형",
+      "value": "사용자 이해도",
+      "persuasion": "경험 기반 신뢰",
+      "evidence": "딸의 습진을 계기로 직접 보습 밤을 개발했다는 BDC 사례.",
+      "growth_evidence": "지역 시장에서 해외 유통으로 확장; 매출 미확인",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 29,
+        "differentiation": 18,
+        "transferability": 19,
+        "evidence": 19,
+        "growth": 5
+      },
+      "score": 90,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[엄마] 개발한 [보습 밤]",
+      "grade": "S"
     },
     {
       "brand": "Amidira",
@@ -33,7 +76,10 @@
       "id": "SHP-004",
       "script": "암 생존자가 만든 암 환자 케어 선물 상자",
       "source_url": "https://www.shopify.com/my/blog/117043653-10-businesses-run-by-badass-multitasking-super-moms-giveaway",
-      "prior_type": "당사자 개발형"
+      "prior_type": "당사자 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "RunCeler",
@@ -41,7 +87,10 @@
       "id": "SC-016",
       "script": "생체의공학자가 개발한 러닝 훈련 스트랩",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9654",
-      "prior_type": "전문가 개발형"
+      "prior_type": "전문가 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Kindred Label",
@@ -49,7 +98,10 @@
       "id": "SC-091",
       "script": "본인의 신발 불편에서 출발한 독학 제화공의 샌들",
       "source_url": "https://www.starterstory.com/kindred-label-breakdown",
-      "prior_type": "당사자 개발형"
+      "prior_type": "당사자 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Beardo",
@@ -57,7 +109,10 @@
       "id": "SC-093",
       "script": "스노보드를 타다가 떠올린 수염 모양 방한 모자",
       "source_url": "https://www.starterstory.com/ideas/ecommerce-store/success-stories",
-      "prior_type": "당사자 개발형"
+      "prior_type": "당사자 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Comfy Cup",
@@ -65,7 +120,10 @@
       "id": "SC-094",
       "script": "어린이의 스포츠 보호구 아이디어로 시작한 브랜드",
       "source_url": "https://www.starterstory.com/ideas/ecommerce-store/success-stories",
-      "prior_type": "당사자 개발형"
+      "prior_type": "당사자 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Simple Sugars",
@@ -73,7 +131,10 @@
       "id": "SC-095",
       "script": "엄마와 딸이 피부 고민에서 출발해 만든 스킨케어",
       "source_url": "https://www.shopify.com/blog/earliest-businesses",
-      "prior_type": "가족 개발형"
+      "prior_type": "가족 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Mattt",
@@ -81,7 +142,10 @@
       "id": "SC-096",
       "script": "잃어버린 가방을 찾을 수 있도록 일련번호를 넣은 가방",
       "source_url": "https://www.shopify.com/blog/earliest-businesses",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Kloo",
@@ -89,15 +153,38 @@
       "id": "SC-097",
       "script": "커피 감별 전문가인 엄마와 딸이 창업한 커피 브랜드",
       "source_url": "https://www.shopify.com/sg/blog/brand-storytelling-examples",
-      "prior_type": "창업자 정체성형"
+      "prior_type": "창업자 정체성형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Halfdays",
       "kind": "script",
       "id": "SC-099",
-      "script": "올림픽 스키 선수의 전문성을 반영한 여성 스키복",
-      "source_url": "https://cdn-sales.optimonk.com/halfdays-marketing-breakdown",
-      "prior_type": "전문가 개발형"
+      "script": "남성용 스키복의 불편을 겪은 올림픽 선수가 공동 창업한 여성 스키복",
+      "source_url": "https://www.halfdays.com/pages/about-us",
+      "prior_type": "전문가 개발형",
+      "product": "스키복",
+      "subject": "올림픽 스키 선수",
+      "relationship": "공동 창업한",
+      "type": "전문가 개발형",
+      "value": "사용자 이해도",
+      "persuasion": "직업적 경험",
+      "evidence": "2018년 올림픽에서 남성용 스키복을 착용한 공동창업자가 여성 맞춤 의류를 기획.",
+      "growth_evidence": "브랜드 공식 원문에 연중 아웃도어 의류 확장 기재",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 29,
+        "differentiation": 19,
+        "transferability": 19,
+        "evidence": 20,
+        "growth": 4
+      },
+      "score": 91,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[올림픽 스키 선수] 공동 창업한 [스키복]",
+      "grade": "S"
     },
     {
       "brand": "Surreal",
@@ -105,7 +192,10 @@
       "id": "SC-101",
       "script": "어린 시절 시리얼의 맛을 무설탕으로 제안하는 브랜드",
       "source_url": "https://www.optimonk.com/surreal-cereal-marketing-strategy",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "EUME",
@@ -113,7 +203,10 @@
       "id": "SC-105",
       "script": "마사지 기능을 결합한 백팩",
       "source_url": "https://www.kickstarter.com/projects/641462987/eume-worlds-first-massager-backpack-that-relaxes-y",
-      "prior_type": "기능 결합형"
+      "prior_type": "기능 결합형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Golfeye",
@@ -121,7 +214,10 @@
       "id": "SC-106",
       "script": "홀인원을 촬영하지 못한 골퍼가 시작한 골프 카메라",
       "source_url": "https://www.kickstarter.com/projects/golfeye/golfeye-the-ai-golf-camera-for-real-courses/faqs",
-      "prior_type": "당사자 개발형"
+      "prior_type": "당사자 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Kizik",
@@ -129,7 +225,10 @@
       "id": "EXP-005",
       "script": "손을 쓰지 않고 신는 신발",
       "source_url": "https://www.retailbrew.com/stories/2024/04/30/dtc-brand-kizik-embraces-gradual-expansion-into-wholesale-brick-and-mortar",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Behave",
@@ -137,7 +236,10 @@
       "id": "EXP-007",
       "script": "아버지의 건강 고민에서 출발한 캔디",
       "source_url": "https://www.modernretail.co/operations/candy-brand-behave-bet-everything-on-tiktok-shop-went-viral-and-secured-a-target-launch/",
-      "prior_type": "가족 개발형"
+      "prior_type": "가족 개발형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "SHWUNG",
@@ -145,7 +247,10 @@
       "id": "EXP-011",
       "script": "와인처럼 보이도록 디자인한 무알코올 와인",
       "source_url": "https://the-brandidentity.com/project/how-fcklck-gave-alcohol-free-brand-shwung-a-full-wine-disguise",
-      "prior_type": "기존 제품 대체형"
+      "prior_type": "기존 제품 대체형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Strive Skin",
@@ -153,7 +258,10 @@
       "id": "SC-007",
       "script": "화학자가 창업한 남성 스킨케어",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9654",
-      "prior_type": "창업자 정체성형"
+      "prior_type": "창업자 정체성형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Snappy Socks",
@@ -161,7 +269,10 @@
       "id": "SC-013",
       "script": "세탁할 때 짝을 잃지 않도록 연결하는 양말",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9654",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "xSuit",
@@ -169,7 +280,10 @@
       "id": "SC-014",
       "script": "세탁기에 넣을 수 있는 신축성 정장",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9654",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Wild",
@@ -177,7 +291,10 @@
       "id": "SC-015",
       "script": "플라스틱 쓰레기를 줄이는 리필형 데오도란트",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9654",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "QuietOn",
@@ -185,7 +302,10 @@
       "id": "SC-023",
       "script": "잠잘 때 쓰도록 만든 노이즈 캔슬링 이어플러그",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Rotoshovel",
@@ -193,7 +313,10 @@
       "id": "SC-028",
       "script": "전기 모터를 적용한 삽",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Spretz",
@@ -201,7 +324,10 @@
       "id": "SC-031",
       "script": "입과 손에 쓰는 2-in-1 스프레이",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "기능 결합형"
+      "prior_type": "기능 결합형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Ekster",
@@ -209,7 +335,10 @@
       "id": "SC-032",
       "script": "추적 기능을 결합한 스마트 지갑",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "기능 결합형"
+      "prior_type": "기능 결합형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Mobile Pixels",
@@ -217,7 +346,10 @@
       "id": "SC-033",
       "script": "노트북 화면을 확장하는 휴대용 모니터",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Lawrence Hunt",
@@ -225,7 +357,10 @@
       "id": "SC-034",
       "script": "땀 배출 기능을 적용한 드레스 셔츠",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "CuffStyle",
@@ -233,7 +368,10 @@
       "id": "SC-035",
       "script": "일반 셔츠에 커프링크를 연결하는 실리콘 어댑터",
       "source_url": "https://www.starterstory.com/data/problems?business_model=9669",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "NeuroGum",
@@ -241,7 +379,10 @@
       "id": "SC-036",
       "script": "에너지 섭취를 껌과 민트로 바꾼 브랜드",
       "source_url": "https://www.starterstory.com/data/problems?icp=8132",
-      "prior_type": "기존 제품 대체형"
+      "prior_type": "기존 제품 대체형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "FATCO",
@@ -249,7 +390,10 @@
       "id": "SC-037",
       "script": "소기름을 원료로 사용하는 스킨케어",
       "source_url": "https://www.starterstory.com/data/problems?icp=8132",
-      "prior_type": "희소 원료형"
+      "prior_type": "희소 원료형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "VADE Nutrition",
@@ -257,7 +401,10 @@
       "id": "SC-043",
       "script": "물에 녹는 포장으로 만든 단백질 분말",
       "source_url": "https://www.starterstory.com/data/problems?icp=8132",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Nadeef",
@@ -265,7 +412,10 @@
       "id": "SC-047",
       "script": "손에 들고 사용하는 휴대용 비데",
       "source_url": "https://www.starterstory.com/data/problems?icp=8132",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "AirTulip",
@@ -273,7 +423,10 @@
       "id": "SC-049",
       "script": "클린룸 수준을 지향하는 가정용 공기정화 시스템",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "RinseKit",
@@ -281,7 +434,10 @@
       "id": "SC-050",
       "script": "야외에서 사용하는 가압식 휴대 샤워기",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Paper Saver",
@@ -289,7 +445,10 @@
       "id": "SC-051",
       "script": "사용한 종이를 다시 끼워 쓰는 노트",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Tree To Tub",
@@ -297,7 +456,10 @@
       "id": "SC-052",
       "script": "비누열매를 원료로 만든 민감 피부용 세정제",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Lunchbox Packs",
@@ -305,7 +467,10 @@
       "id": "SC-053",
       "script": "축제 관람객을 위한 도난 방지 수분 보급 가방",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Le-Glue",
@@ -313,7 +478,10 @@
       "id": "SC-054",
       "script": "조립 블록을 위한 수성 접착제",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "ZIRUI",
@@ -321,7 +489,10 @@
       "id": "SC-055",
       "script": "자석으로 연결하는 여행용 세면도구 케이스",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Chemo Cozy",
@@ -329,7 +500,10 @@
       "id": "SC-056",
       "script": "항암 치료 중 편안함을 고려한 재킷",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11451",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Oliver Charles",
@@ -337,7 +511,10 @@
       "id": "SC-058",
       "script": "해조류와 야크 울을 활용한 스웨터",
       "source_url": "https://www.starterstory.com/data?icp=9767",
-      "prior_type": "희소 원료형"
+      "prior_type": "희소 원료형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Shower Toga",
@@ -345,7 +522,10 @@
       "id": "SC-059",
       "script": "야외에서 옷을 갈아입기 위한 방수 의류",
       "source_url": "https://www.starterstory.com/data?icp=9767",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Seatylock",
@@ -353,7 +533,10 @@
       "id": "SC-063",
       "script": "자전거 안장과 자물쇠를 결합한 제품",
       "source_url": "https://www.starterstory.com/data?icp=9767",
-      "prior_type": "기능 결합형"
+      "prior_type": "기능 결합형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Stone Journal",
@@ -361,7 +544,10 @@
       "id": "SC-069",
       "script": "셰프를 위한 방수 노트",
       "source_url": "https://www.starterstory.com/data/problems?business_model=10070",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Posture",
@@ -369,7 +555,10 @@
       "id": "SC-070",
       "script": "업무 중 목과 허리 부담을 고려한 휴대용 노트북 받침대",
       "source_url": "https://www.starterstory.com/data/problems?business_model=10070",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "BBQ Croc",
@@ -377,7 +566,10 @@
       "id": "SC-071",
       "script": "바비큐 도구 세 가지를 하나로 합친 제품",
       "source_url": "https://www.starterstory.com/data/problems?business_model=10070",
-      "prior_type": "기능 결합형"
+      "prior_type": "기능 결합형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Kitchen Safe",
@@ -385,23 +577,66 @@
       "id": "SC-072",
       "script": "시간을 설정해야 열리는 보관함",
       "source_url": "https://www.starterstory.com/data/problems?business_model=10070",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Soundbrenner",
       "kind": "script",
       "id": "SC-073",
-      "script": "소리 대신 진동으로 박자를 알려주는 웨어러블 메트로놈",
-      "source_url": "https://www.starterstory.com/data/problems?business_model=11450",
-      "prior_type": "문제 해결 특화형"
+      "script": "진동으로 박자를 느끼는 웨어러블 메트로놈",
+      "source_url": "https://www.soundbrenner.com/pages/manual-pulse-vibrating-metronome",
+      "prior_type": "문제 해결 특화형",
+      "product": "메트로놈",
+      "subject": "음악 연주자",
+      "relationship": "위해 만든",
+      "type": "기존 제품 대체형",
+      "value": "기능성",
+      "persuasion": "감각 전달 방식 전환",
+      "evidence": "제품 매뉴얼에서 진동을 통해 박자를 느끼고 강도와 지속 시간을 설정한다고 설명.",
+      "growth_evidence": "매출 성장 미확인",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 29,
+        "differentiation": 20,
+        "transferability": 19,
+        "evidence": 20,
+        "growth": 0
+      },
+      "score": 88,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[음악 연주자] 위해 만든 [메트로놈]",
+      "grade": "A"
     },
     {
       "brand": "Buckle Me Baby Coats",
       "kind": "script",
       "id": "SC-074",
-      "script": "카시트 사용을 고려한 어린이 겨울 코트",
-      "source_url": "https://www.starterstory.com/data/problems?business_model=11450",
-      "prior_type": "타깃 특화형"
+      "script": "카시트에 아이를 태울 때 겪는 불편을 해결하려 엄마가 만든 겨울 코트",
+      "source_url": "https://bucklemecoats.com/pages/about-us",
+      "prior_type": "타깃 특화형",
+      "product": "겨울 코트",
+      "subject": "엄마",
+      "relationship": "개발한",
+      "type": "가족 개발형",
+      "value": "편의성",
+      "persuasion": "경험 기반 신뢰",
+      "evidence": "세 아이의 엄마가 겨울철 카시트에 태우기 위해 코트를 벗기는 불편에서 제품을 발명했다고 설명.",
+      "growth_evidence": "매출 성장 미확인",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 29,
+        "differentiation": 19,
+        "transferability": 19,
+        "evidence": 20,
+        "growth": 0
+      },
+      "score": 87,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[엄마] 개발한 [겨울 코트]",
+      "grade": "A"
     },
     {
       "brand": "FinalStraw",
@@ -409,7 +644,10 @@
       "id": "SC-076",
       "script": "접어서 휴대할 수 있는 재사용 빨대",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11450",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Shark Wheel",
@@ -417,7 +655,10 @@
       "id": "SC-077",
       "script": "물결형 디자인으로 험한 지형을 겨냥한 바퀴",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11450",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "UpCart",
@@ -425,7 +666,10 @@
       "id": "SC-078",
       "script": "계단 이동을 고려한 접이식 카트",
       "source_url": "https://www.starterstory.com/data/problems?business_model=11450",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "U-Lace",
@@ -433,7 +677,10 @@
       "id": "SC-082",
       "script": "묶을 필요 없는 운동화 끈",
       "source_url": "https://www.starterstory.com/data/problems?business_model=12010",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Scrubblade",
@@ -441,7 +688,10 @@
       "id": "SC-083",
       "script": "문지르는 기능을 더한 자동차 와이퍼",
       "source_url": "https://www.starterstory.com/data/problems?business_model=12010",
-      "prior_type": "기능 결합형"
+      "prior_type": "기능 결합형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Boomerangz",
@@ -449,7 +699,10 @@
       "id": "SC-084",
       "script": "교체 가능한 부품을 갖춘 플립플롭",
       "source_url": "https://www.starterstory.com/data/problems?business_model=12010",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Clever Travel Companion",
@@ -457,7 +710,10 @@
       "id": "SC-086",
       "script": "소매치기 방지를 위해 숨은 주머니를 넣은 여행복",
       "source_url": "https://www.starterstory.com/data/problems?icp=12051",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Midnight Kitchen Tools",
@@ -465,7 +721,10 @@
       "id": "SC-087",
       "script": "딱딱한 아이스크림을 뜨기 위한 인체공학 스쿱",
       "source_url": "https://www.starterstory.com/data?icp=7290",
-      "prior_type": "문제 해결 특화형"
+      "prior_type": "문제 해결 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Shed Defender",
@@ -473,253 +732,416 @@
       "id": "SC-088",
       "script": "반려견 털 날림을 줄이기 위해 입히는 옷",
       "source_url": "https://www.starterstory.com/data?icp=7290",
-      "prior_type": "타깃 특화형"
+      "prior_type": "타깃 특화형",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bearaby",
       "kind": "candidate",
-      "source_url": "https://www.dtcetc.com/brands/11",
-      "official_domain": "bearaby.com"
+      "source_url": "https://bearaby.com/pages/our-story",
+      "official_domain": "bearaby.com",
+      "script": "무게감 있는 이불의 수면 경험에서 출발한 이불 브랜드",
+      "product": "이불",
+      "subject": "창업자",
+      "relationship": "창업한",
+      "type": "당사자 개발형",
+      "value": "편안함",
+      "persuasion": "경험 기반 신뢰",
+      "evidence": "창업자가 중량 이불 아래에서 잠을 잔 경험을 창업 스토리로 소개.",
+      "growth_evidence": "매출 성장 미확인",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 23,
+        "differentiation": 14,
+        "transferability": 16,
+        "evidence": 19,
+        "growth": 0
+      },
+      "score": 72,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[창업자] 창업한 [이불]",
+      "grade": "B"
     },
     {
       "brand": "Bee's Wrap",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brands/11",
-      "official_domain": "beeswrap.com"
+      "official_domain": "beeswrap.com",
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Ridge",
       "kind": "candidate",
       "source_url": "https://1800dtc.com/brands",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Loop Earplugs",
       "kind": "candidate",
       "source_url": "https://1800dtc.com/brands",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Figs",
       "kind": "candidate",
-      "source_url": "https://1800dtc.com/brands",
-      "official_domain": null
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1846576/000162828026012333/figs-20251231.htm",
+      "official_domain": null,
+      "script": "의료진의 근무복 불편을 개선한 의료 의류",
+      "product": "의료 의류",
+      "subject": "의료진",
+      "relationship": "위해 만든",
+      "type": "타깃 특화형",
+      "value": "편안함",
+      "persuasion": "직업군 특화",
+      "evidence": "10-K에서 기존 의료복의 착용감과 기능 한계, 의료진 대상 제품 및 입소문 전략을 설명.",
+      "growth_evidence": "2025년 말 활성 고객 약 290만 명; 성장률은 별도 확인",
+      "source_check": "body_checked",
+      "score_components": {
+        "purchase_reason": 27,
+        "differentiation": 16,
+        "transferability": 19,
+        "evidence": 20,
+        "growth": 6
+      },
+      "score": 88,
+      "label_origin": "AI analysis of opened source",
+      "formula": "[의료진] 위해 만든 [의료 의류]",
+      "grade": "A"
     },
     {
       "brand": "Frost Buddy",
       "kind": "candidate",
       "source_url": "https://1800dtc.com/brands",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "POPFLEX",
       "kind": "candidate",
       "source_url": "https://1800dtc.com/brands",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "4 Moms",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/4-moms",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "4Ocean",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/4ocean",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Aarke",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/aarke",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Airinum",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/airinum",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Aisle",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/aisle",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Allbirds",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/allbirds",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Almond Cow",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/almond-cow",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Anyday",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/anyday",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Apollo Neuro",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/apollo-neuro",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Audicus",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/audicus",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Autobrush",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/autobrush",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bala",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bala",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bandolier",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bandolier",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Banza",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/banza",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bellroy Wallet",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bellroy-wallet",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Betterbrand",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/betterbrand",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bite",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bite",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Blueland",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/blueland",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bobbie",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bobbie",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Boie",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/boie",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bombas",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bombas",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Branch Basics",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/branch-basics",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Bravo Sierra",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/bravo-sierra",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Brompton",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/brompton",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Brumate",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/brumate",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Buffy",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/buffy",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Cabinet Health",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/cabinet-health",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Cadence",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/cadence",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Canopy",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/canopy",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Caraway",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/caraway",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Carpe",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/carpe",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Catalina Crunch",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/catalina-crunch",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Cerebelly",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/cerebelly",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     },
     {
       "brand": "Chili Sleep",
       "kind": "candidate",
       "source_url": "https://www.dtcetc.com/brand/chili-sleep",
-      "official_domain": null
+      "official_domain": null,
+      "source_check": "pending",
+      "score": null,
+      "grade": null
     }
-  ]
+  ],
+  "verified_count": 7
 }
